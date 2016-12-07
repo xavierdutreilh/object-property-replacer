@@ -12,7 +12,7 @@ npm install -S object-property-replacer
 
 ## Usage
 
-Generate an element ID:
+Replace the properties of a destination object by the properties of a source object:
 
 ```javascript
 const replacer = require('object-property-replacer');
