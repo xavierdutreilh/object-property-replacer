@@ -1,10 +1,8 @@
 'use strict';
 
-const path = require('path');
-
 const expect = require('expect');
 
-const replacer = require(path.join(__dirname, '..', 'lib'));
+const replacer = require('../lib');
 
 describe('replacer', () => {
   describe('replace', () => {
