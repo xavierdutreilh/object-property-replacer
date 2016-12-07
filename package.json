@@ -1,0 +1,39 @@
+{
+  "name": "object-property-replacer",
+  "description": "A Node.js module to replace the properties of an object by the properties of another object",
+  "version": "0.0.0",
+  "homepage": "https://github.com/xavierdutreilh/object-property-replacer",
+  "author": {
+    "name": "Xavier Dutreilh",
+    "email": "xavier@dutreilh.com",
+    "url": "http://xavier.dutreilh.com/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/xavierdutreilh/object-property-replacer.git"
+  },
+  "bugs": {
+    "url": "https://github.com/xavierdutreilh/object-property-replacer/issues"
+  },
+  "license": "MIT",
+  "main": "lib/",
+  "engines": {
+    "node": ">= 4.0.0"
+  },
+  "scripts": {
+    "pretest": "eslint .",
+    "test": "istanbul cover _mocha"
+  },
+  "devDependencies": {
+    "eslint": "^3.0.1",
+    "eslint-config-xavierdutreilh": "^0.2.0",
+    "expect": "^1.20.2",
+    "istanbul": "^0.4.3",
+    "mocha": "^3.0.0"
+  },
+  "keywords": [
+    "object",
+    "property",
+    "replacer"
+  ]
+}
