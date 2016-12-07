@@ -6,7 +6,7 @@ const expect = require('expect');
 
 const replacer = require(path.join(__dirname, '..', 'lib'));
 
-describe('object-property-replacer', () => {
+describe('replacer', () => {
   describe('replace', () => {
     it('should replace all properties', () => {
       const destination = {
