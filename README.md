@@ -1,4 +1,4 @@
-# object-property-replacer [![Build Status](https://travis-ci.org/xavierdutreilh/object-property-replacer.svg?branch=master)](https://travis-ci.org/xavierdutreilh/object-property-replacer)
+# object-property-replacer [![Build Status](https://travis-ci.org/xavierdutreilh/object-property-replacer.svg?branch=master)](https://travis-ci.org/xavierdutreilh/object-property-replacer) [![Dependency Status](https://gemnasium.com/badges/github.com/xavierdutreilh/object-property-replacer.svg)](https://gemnasium.com/github.com/xavierdutreilh/object-property-replacer)
 
 > A [Node.js](https://nodejs.org/) module to replace the properties of an object by the properties of another object
 
