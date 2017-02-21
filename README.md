@@ -30,6 +30,7 @@ const source = {
 };
 
 replacer.replace(destination, source);
+
 // destination = {'id': 1, 'email': 'jdoe@example.com', 'role': 'user'}
 ```
 
